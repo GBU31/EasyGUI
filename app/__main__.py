@@ -1,4 +1,3 @@
-import threading
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from core.app import *
 from core.start_server import *
