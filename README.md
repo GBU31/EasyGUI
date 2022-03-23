@@ -8,8 +8,6 @@ $ git clone https://github.com/brookehorizon/Easy_GUI
 
 $ python3 Easy_GUI
 
-project name: myapp
-
 $ cd myapp
 
 $ python3 app
