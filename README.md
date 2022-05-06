@@ -1,7 +1,9 @@
-$ git clone https://github.com/brookehorizon/Easy_GUI
+```
+git clone https://github.com/brookehorizon/Easy_GUI
 
-$ python3 Easy_GUI
+python3 Easy_GUI
 
-$ cd myapp
+cd myapp
 
-$ python3 app
+python3 app
+```
