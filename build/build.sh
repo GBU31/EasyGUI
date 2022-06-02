@@ -1,3 +1,3 @@
 #! /bin/bash
 
-pyinstaller app/core/app.py --onefile
+pyinstaller app/__main__.py --onefile
