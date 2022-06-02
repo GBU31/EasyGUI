@@ -2,8 +2,6 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 from .settings import *
 
 
-
-
 class MyServer(BaseHTTPRequestHandler):
     def do_GET(self):
         self.send_response(200)
